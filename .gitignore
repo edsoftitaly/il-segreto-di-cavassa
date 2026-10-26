@@ -1,0 +1,13 @@
+# il gioco va solo nelle Releases, mai nel repository
+*.zip
+*.7z
+*.rar
+*.exe
+*.dll
+*.tr4
+*.wmv
+*.wav
+*.wad
+*.prj2
+Thumbs.db
+desktop.ini
